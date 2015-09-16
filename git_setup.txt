@@ -1,0 +1,9 @@
+git add <FILE>
+
+git commit
+
+git remote add origin <URL>
+
+git status
+
+git push origin master
